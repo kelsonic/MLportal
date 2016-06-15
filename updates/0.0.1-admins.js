@@ -9,7 +9,7 @@
 
 exports.create = {
 	User: [
-		{ 'name.first': 'Admin', 'name.last': 'User', 'email': 'kgadams93@gmail.com', 'password': 'password123', 'isAdmin': true },
+		{ 'name.first': 'Admin', 'name.last': 'User', 'email': 'hello@example.com', 'password': 'password123', 'isAdmin': true },
 	],
 };
 
