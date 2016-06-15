@@ -20,6 +20,20 @@ npm install -g yo
 git clone https://github.com/kelsonic/MLportal.git
 
 cd /MLportal
+
+npm install
+
+touch .env
+```
+
+Inside of the .env file:
+
+```
+
+COOKIE_SECRET=EnterYourSecretCookieKeyHere
+CLOUDINARY_URL=EnterYourCloudinaryURLHere
+MANDRILL_API_KEY=EnterYourMandrillAPIKeyHere
+
 ```
 
 ### Three
