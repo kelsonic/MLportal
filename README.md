@@ -8,6 +8,12 @@ This is a blog on the most important machine-learning algorithms.
 
 Download and install [Node.JS](https://nodejs.org/en/download/) and [MongoDB](https://www.mongodb.com/download-center) before continuing.
 
+Also, we'll want to install Yeoman.
+
+```
+npm install -g yo
+```
+
 ### Two
 
 ```
