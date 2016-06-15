@@ -24,7 +24,7 @@ mixin post(post)
 
 block intro
 	.container
-		h1.text-center= data.category ? data.category.name : 'Blog'
+		h1.text-center= data.category ? data.category.name : 'Machine-Learning Articles'
 
 block content
 	.container: .row
@@ -42,7 +42,7 @@ block content
 							strong #{data.posts.total}
 							|  posts.
 					else
-						h4.text-weight-normal Showing #{utils.plural(data.posts.results.length, '* post')}.
+						h4.text-weight-normal Showing #{utils.plural(data.posts.results.length, '* article')}.
 					.blog
 						each post in data.posts.results
 							+post(post)
