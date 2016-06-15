@@ -2,7 +2,7 @@
 
 This is a blog on the most important machine-learning algorithms.
 
-## Getting Started
+## Steps to Get Started
 
 ### One
 
@@ -30,7 +30,7 @@ Navigate to `http://localhost:3000/`. All done!
 
 ## Contributing
 
-Do you see some errors? Want to create a new feature? Simple! 
+Do you see some errors? Want to create a new feature? **Simple!** 
 
 Just fork the repo, make your changes, and send up a pull request.
 
