@@ -2,8 +2,25 @@ extends ../layouts/default
 
 block content
 	.container 
-		div.jumbotron.text-center
+		.jumbotron.text-center
 			h1 Machine-Learning Portal
-			p Welcome to the machine-learning portal where we discuss the most widely-used machine-learning algorithms.
-			hr
-			p Check out the <a href="/blog">top algorithms</a>.
+			p Learn about some of the most widely-used machine-learning algorithms.
+
+		.row
+			.col-sm-12.col-md-8.col-md-offset-2.col-lg-6.col-lg-offset-3.text-center
+				h2 List of Top ML Algorithms
+				ul.list-group
+					li.list-group-item <a href="/blog">Naïve Bayes Classifier Algorithm</a>
+					li.list-group-item <a href="/blog">K Means Clustering Algorithm</a>
+					li.list-group-item <a href="/blog">Support Vector Machine Algorithm</a>
+					li.list-group-item <a href="/blog">Apriori Algorithm</a>
+					li.list-group-item <a href="/blog">Linear Regression</a>
+					li.list-group-item <a href="/blog">Logistic Regression</a>
+					li.list-group-item <a href="/blog">Artificial Neural Networks</a>
+					li.list-group-item <a href="/blog">Random Forests</a>
+					li.list-group-item <a href="/blog">Decision Trees</a>
+					li.list-group-item <a href="/blog">Nearest Neighbor Algorithm</a>
+
+		.jumbotron.text-center
+			p View the <a href="/blog">top algorithms</a>.
+
