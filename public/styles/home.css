@@ -17,7 +17,6 @@ body {
 	background: #fff;
 	color: #383a3c;
 	font-weight: 400;
-	font-size: 1em;
 	line-height: 1.25;
 	font-family: 'Raleway', Calibri, Arial, sans-serif;
 }
@@ -192,4 +191,11 @@ p.ref {
 	.codrops-header h1 {
 		font-size: 2.5em;
 	}
+}
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	z-index: 1;
 }
