@@ -40,7 +40,7 @@ html
 	body
 
 		//- HEADER
-		#header: .container
+		#header
 
 			//- Customise your site's navigation by changing the navLinks Array in ./routes/middleware.js
 			//- ... or completely change this header to suit your design.
@@ -85,10 +85,10 @@ html
 
 
 		//- FOOTER
-		.container: #footer
+		#footer
 
 			//- You don't _have_ to include a link saying your site is powered by KeystoneJS, but we appreciate it!
-			p.text-center Copyright &copy; 2016. Made by <a href="www.kelsonic.io">Kelsonic</a>.
+			p.text-center#footer-text Copyright &copy; 2016. Made by <a id="footer-link" href="http://kelsonic.io">Kelsonic</a>.
 
 
 		//- JAVASCRIPT
