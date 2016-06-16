@@ -199,3 +199,7 @@ p.ref {
 	width: 100%;
 	z-index: 1;
 }
+
+.post {
+	margin: 20px 0 40px 0;
+}
