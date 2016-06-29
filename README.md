@@ -2,7 +2,7 @@
 
 ![MLportal](/public/images/readme-logo.png)
 
-This is a blog on the most important machine-learning algorithms.
+This is a blog on the most important machine-learning algorithms. (Built with Node.js, Express.js, MongoDB, and Keystone.js)
 
 ## Steps to Get Started
 
