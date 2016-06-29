@@ -1,4 +1,4 @@
-# MLportal
+![MLportal](/public/images/readme-logo.png)
 
 This is a blog on the most important machine-learning algorithms.
 
@@ -48,12 +48,18 @@ In another terminal run `node keystone.js` to start your server.
 
 Navigate to `http://localhost:3000/`. All done!
 
+![MLportal example](/public/images/readme-image.jpg)
+
 ## Contributing
 
 Do you see some errors? Want to create a new feature? **Simple!** 
 
 Just fork the repo, make your changes, and send up a pull request.
 
+## Credits
+
+* [Kelsonic](https://github.com/kelsonic)
+
 ## License
 
-MIT License. View it in the LICENSE file.
+MIT License. View it [here](LICENSE).
