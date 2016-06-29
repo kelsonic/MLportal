@@ -50,6 +50,8 @@ In another terminal run `node keystone.js` to start your server.
 
 Navigate to `http://localhost:3000/`. All done!
 
+You can also [view the website](https://mlportal.herokuapp.com/).
+
 ![MLportal example](/public/images/readme-image.jpg)
 
 ## Contributing
